@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25744
     wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
 description: Cover; Title Page; Copyright Page; Unborn Tomorrow.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23942#Unborn-Tomorrow
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-12-20'
 gutenberg_type: Text
